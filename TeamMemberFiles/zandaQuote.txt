@@ -1,0 +1,8 @@
+Favorite Quote:
+"Dream big and never give up."
+
+Said By:
+Zanda
+
+Preferred Tech Stack:
+Java, MySQL, React
